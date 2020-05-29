@@ -12,3 +12,5 @@ module.exports = {
     limit: 24           // You can change this if you want, but it's not necessary and this is the maximum it can be
 }
 ```
+
+P.S.: It will download the images into the `images` folder.
